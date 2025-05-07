@@ -7,3 +7,6 @@
 [submodule "products-ms"]
 	path = products-ms
 	url = https://github.com/Voltaxxk/micro-service.git
+[submodule "payment-ms"]
+	path = payment-ms
+	url = https://github.com/Voltaxxk/payments-ms.git
